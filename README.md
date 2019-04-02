@@ -1,2 +1,2 @@
 # YrgoGameJam
-Ersmus collaboration sweden netherelands
+Ersmus collaboration Sweden Netherlands
